@@ -245,6 +245,12 @@ return {
 					"-1 {C:attention}Hand Size{}"
 				},
 			},
+			["stake_cruel_fools"] = {
+				["name"] = "Fool's Stake",
+				["text"] = {
+					"You may not {C:green}Reroll{}"
+				},
+			},
 		},
 		["Back"] = {
 			["b_cruel_agony"] = {
