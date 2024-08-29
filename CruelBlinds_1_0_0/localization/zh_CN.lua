@@ -238,6 +238,12 @@ return {
 					"{C:attention}手牌上限{}-1"
 				},
 			},
+			["stake_cruel_fools"] = {
+				["name"] = "傻瓜之注",
+				["text"] = {
+					"商店无法{C:green}重掷{}"
+				},
+			},
 		},
 		["Back"] = {
 			["b_cruel_agony"] = {
